@@ -1,0 +1,7 @@
+{
+  "name": "HealthSync AI",
+  "description": "Your personal AI health consultant with real-time voice and chat support. Get health advice in your local language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
